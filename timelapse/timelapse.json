@@ -1,0 +1,41 @@
+{
+ "schema_version": "1",
+ "made_at": "2026-10-17T22:48+08:00",
+ "what": "1 frame a day, each day's worst hour over Southeast Asia, the globe in Real Earth and in Plain, the date, hour and view stamped in the corner; the credit line the last frame.",
+ "seconds_a_day": 1,
+ "credit_seconds": 4,
+ "frames": [
+  {
+   "date": "2026-10-16",
+   "hour": "2026-10-16T15",
+   "pictures": {
+    "real": "hours/2026-10-16T15/globe-real.webp",
+    "plain": "hours/2026-10-16T15/globe-plain.webp"
+   }
+  }
+ ],
+ "missing": [],
+ "files": {
+  "real": {
+   "mp4": {
+    "path": "timelapse/real.mp4",
+    "bytes": 167163
+   },
+   "gif": {
+    "path": "timelapse/real.gif",
+    "bytes": 122124
+   }
+  },
+  "plain": {
+   "mp4": {
+    "path": "timelapse/plain.mp4",
+    "bytes": 135836
+   },
+   "gif": {
+    "path": "timelapse/plain.gif",
+    "bytes": 104065
+   }
+  }
+ },
+ "credit": "Kept by Planet Zero from what its site showed. Smoke: generated using Copernicus Atmosphere Monitoring Service information 2026, adjusted to the monitors; neither the European Commission nor ECMWF is responsible for any use. Wind: NOAA GFS via NOMADS. Fires: NASA FIRMS (LANCE, ESDIS). Pictures: NASA GIBS (ESDIS). Monitors: NEA via data.gov.sg (Singapore Open Data Licence 1.0), DOE Malaysia (Malaysian Government Open Data Terms of Use 1.0), OpenAQ and each owner under its licence. Made with Natural Earth. Maps: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors."
+}

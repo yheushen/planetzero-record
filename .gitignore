@@ -1,0 +1,4 @@
+# the time-lapse's files: on the branch `timelapse` (part 143j)
+timelapse/*.mp4
+timelapse/*.gif
+timelapse/.made
