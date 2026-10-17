@@ -2,3 +2,5 @@
 timelapse/*.mp4
 timelapse/*.gif
 timelapse/.made
+# on their own branches, replaced: the time-lapse (`timelapse`, part 143j), today's 4 views (`today`, part 153)
+.today/
