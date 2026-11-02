@@ -1,6 +1,6 @@
 {
  "schema_version": "1",
- "made_at": "2026-11-02T00:29+08:00",
+ "made_at": "2026-11-03T00:35+08:00",
  "what": "1 frame a day, each day's worst hour over Southeast Asia, the globe in Real Earth and in Plain, the date, hour and view stamped in the corner, each frame the map alone with its strip; the credit line the last frame.",
  "seconds_a_day": 1,
  "credit_seconds": 4,
@@ -140,6 +140,14 @@
     "real": "hours/2026-11-01T22/globe-real.webp",
     "plain": "hours/2026-11-01T22/globe-plain.webp"
    }
+  },
+  {
+   "date": "2026-11-02",
+   "hour": "2026-11-02T20",
+   "pictures": {
+    "real": "hours/2026-11-02T20/globe-real.webp",
+    "plain": "hours/2026-11-02T20/globe-plain.webp"
+   }
   }
  ],
  "missing": [],
@@ -147,21 +155,21 @@
   "real": {
    "mp4": {
     "path": "timelapse/real.mp4",
-    "bytes": 2270326
+    "bytes": 2401106
    },
    "gif": {
     "path": "timelapse/real.gif",
-    "bytes": 1666716
+    "bytes": 1763911
    }
   },
   "plain": {
    "mp4": {
     "path": "timelapse/plain.mp4",
-    "bytes": 1688733
+    "bytes": 1780825
    },
    "gif": {
     "path": "timelapse/plain.gif",
-    "bytes": 1411033
+    "bytes": 1493552
    }
   }
  },
