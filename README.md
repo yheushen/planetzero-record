@@ -1,5 +1,8 @@
 # The Planet Zero record
 
+**Frozen on 3 Nov 2026. The record continues at https://record.planetzero.ai.** This copy ends with the hour of 3 Nov 2026, 11 am (Malaysia and Singapore time, `hours/2026-11-03T11/`). From the hour of 3 Nov 2026, 12 pm, each hour is kept at https://record.planetzero.ai (Cloudflare R2), where every file kept here is copied at the same path: for example https://record.planetzero.ai/index.json and https://record.planetzero.ai/hours/2026-11-03T11/manifest.json. This repository and its pages stay up, unchanged, so links already shared keep working. The branches `today` and `timelapse` stopped changing here too.
+
+
 What the Planet Zero site (planetzero.ai) showed, kept every hour from 16 Oct 2026: the data each view was drawn from, and pictures of
 the map it drew, so anyone can go back and check. It is a record, not a measurement: the smoke in each picture is an estimate from a
 computer model (CAMS), adjusted to the monitors.
